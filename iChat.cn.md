@@ -71,3 +71,10 @@ iChat tokens will form the incentive mechanism within the system:
 ### 5. Timeline
 - **Demo Version Launch:** January 10, 2025
 - **Official Version Launch:** February 10, 2025
+
+### 6.
+- ** Sol link proxy: icat ca CCsFoRpM4d2M8psAHAxjA87VvEpexZmzijuJwbBDwFtV
+- ** Total supply: 1,000,000,000,000
+- ** Presale price: 1 SOL = 20,000,000 ICAT
+- ** Receiving address: SOL 32dtrsuJmynRHg5vwoSqgEHKgYU6fpaA7TnSpg5iKyMY, minimum 0.1 SOL.
+- ** Upon receiving SOL, the corresponding ICAT will be transferred to your account within 8 hours."
